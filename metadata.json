@@ -1,0 +1,7 @@
+{
+  "name": "SakhiMap",
+  "description": "A privacy-first, zero-tracking platform for locating free and low-cost sanitary pad distribution points from government schemes and NGOs, designed for safety and discretion.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
